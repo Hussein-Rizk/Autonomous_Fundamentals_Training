@@ -514,28 +514,6 @@ Across the seven sessions, the training presents autonomous driving as an integr
 - Closed-loop control
 - PID control
 
----
-
-# 📂 Training Material
-
-The repository contains the original seven training sessions:
-
-```text
-Session 1 - Introduction to Autonomous Vehicles.pptx
-Session 2 - Introduction to Autonomous Vehicles.pptx
-Session 3 - Introduction to Perception for Autonomous Vehicles.pptx
-Session 4 - SLAM_V2.pptx
-Session 5 - pathPlanning.pptx
-Session 6 - Simulation.pptx
-Session 7 - Control Session.pdf
-```
-
-The original completion certificate is also included:
-
-```text
-Autonomous Fundamentals Training Certificate.pdf
-Autonomous Fundamentals Training Certificate.png
-```
 
 ---
 
